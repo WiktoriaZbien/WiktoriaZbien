@@ -13,5 +13,5 @@ Analytics & Databases: IBM Analytics, Excel (+ VBA)
 Data Visualization & BI: Power BI, Tableau, Google Looker Studio
 
 📫 Let's Connect!
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/wiktoria-zbień-68550b360
 Email: wiktoriazbien25@gmail.com
