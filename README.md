@@ -49,14 +49,14 @@ This repository is created to present real-world data analytics projects, demons
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
 | 📊 **[Employee Survey Responses](https://github.com/WiktoriaZbien/data-analysis-portfolio/tree/main/Employee-Survey-Responses)** | Sep 2026 | Dashboards, Data Modules, SQL | Interactive HR Analytics dashboard evaluating 14,500+ survey responses to resolve management-staff perception gaps, functional driver scores, and demographic satisfaction trends across job hierarchies. |
-| 📊 **[CRM Sales Opportunities](#)** | incoming | Dashboards, Data Modules, SQL | B2B sales pipeline analytics dashboard evaluating sales team performance, agent rankings, quarter-over-quarter revenue trends, and product-level win rates. |
+| 📊 **[CRM Sales Opportunities](#)** | incoming | - | B2B sales pipeline analytics dashboard evaluating sales team performance, agent rankings, quarter-over-quarter revenue trends, and product-level win rates. |
 ---
 
 ### Power BI
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ---
 
@@ -64,7 +64,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ------
 
@@ -72,7 +72,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ------
 
@@ -80,7 +80,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ------
 
@@ -88,7 +88,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ------
 
@@ -96,21 +96,21 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 ------
 
 ### RStudio
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 ------
 
 ### SAS
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | - | *Project in progress...* |
 
 ---
 ## Tools & Technologies
