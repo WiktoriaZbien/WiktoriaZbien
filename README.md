@@ -56,7 +56,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ---
 
@@ -64,7 +64,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ------
 
@@ -72,7 +72,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ------
 
@@ -80,7 +80,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ------
 
@@ -88,7 +88,7 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ------
 
@@ -96,21 +96,21 @@ This repository is created to present real-world data analytics projects, demons
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 ------
 
 ### RStudio
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 ------
 
 ### SAS
 
 | Project Link | Completion Date | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| 🗄️ **[SQL Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
+| 🗄️ **[Data Exploration](#)** | Incoming | PostgreSQL, SQL | *Project in progress...* |
 
 ---
 ## Tools & Technologies
